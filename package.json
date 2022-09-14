@@ -31,7 +31,9 @@
     "@polymer/paper-icon-button": "^3.0.0",
     "@polymer/paper-spinner": "^3.0.0",
     "@polymer/polymer": "^3.0.0",
-    "@webcomponents/webcomponentsjs": "^2.0.0"
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "react-chatbot-kit": "^2.1.0",
+    "react-native-vector-icons": "^9.2.0"
   },
   "devDependencies": {
     "@polymer/test-fixture": "^4.0.2",

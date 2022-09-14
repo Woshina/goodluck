@@ -180,6 +180,34 @@ class ShopDetail extends PolymerElement {
         <shop-button responsive>
           <button on-click="_addToCart" aria-label="Add this item to cart">Add to Cart</button>
         </shop-button>
+      <div>
+        <a href="https://www.youtube.com/watch?v=877xxlXYCSU" target="_blank" rel="noreferrer">
+          check it on Ar
+        </a>
+      </div>
+        <div>
+          <a href="http://localhost:3000/" target="_blank" rel="noreferrer">
+            check to chat with designer
+          </a>
+        </div>
+
+ 
+ 
+          </div>
+        </div>
+      </div>
+
+      </div>
+      <div>
+
+        <br />
+        <br />
+
+     
+        <a href="https://www.tiffany.com.au/jewelry/necklaces-pendants/tiffany-t-smile-pendant-35189432/" target="_blank" rel="noreferrer">
+          check for 3d version
+        </a>
+
       </div>
     </div>
 
@@ -280,6 +308,7 @@ class ShopDetail extends PolymerElement {
       this._tryReconnect();
     }
   }
+
 
 }
 
